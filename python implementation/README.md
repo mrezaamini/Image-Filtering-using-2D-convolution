@@ -18,4 +18,4 @@ $$Gray= 0.2989*R + 0.5870*G + 0.1140B$$
 Specifically, each grayscale pixel is obtained by the RGB weighted sum according to the above formula.
 
 ## Sample result:
-![sample otuput](https://github.com/mrezaamini/Image-Filtering-using-2D-convolution/blob/main/matlab%20implementation/matlab_output.png)
+![sample otuput](https://github.com/mrezaamini/Image-Filtering-using-2D-convolution/blob/main/python%20implementation/python_output.png)
