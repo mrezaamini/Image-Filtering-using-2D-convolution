@@ -10,4 +10,5 @@ Main function is Conv2D(img_path, stride, is_same, filter) :
 - is_same: It is a parameter that can be true or false. If it is true and 1=stride, the size of the image after applying the filter is the same as before applying the filter.
 - filter: The filter matrix is applied to the image.
 
-## Sample result:
+## Sample results:
+![sample otuput](https://github.com/mrezaamini/Image-Filtering-using-2D-convolution/blob/main/matlab%20implementation/matlab_output.png)
